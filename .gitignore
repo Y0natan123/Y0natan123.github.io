@@ -4,8 +4,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Production builds
-build/
+# Production builds (but allow build files in root for GitHub Pages)
+client/build/
 dist/
 
 # Environment variables
